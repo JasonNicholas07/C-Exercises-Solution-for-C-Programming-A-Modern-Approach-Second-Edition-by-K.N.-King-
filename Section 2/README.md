@@ -1,1 +1,1 @@
-Create and Run Kernigham and Ritchie's famous Hello World Program
+Section 2 Exercises - Fundamentals
