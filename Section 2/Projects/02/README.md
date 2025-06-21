@@ -1,5 +1,5 @@
 <h1>Question</h1>
-Write the fraction 4/3 as 4 . Of /3 . Of. (Try writing it as 4/3. What happens?)
+Write the fraction 4/3 as 4.0 /3.0 (Try writing it as 4/3. What happens?)
 
 <h1>Answer</h1>
 The program will think 4/3 as integers.</br> 
